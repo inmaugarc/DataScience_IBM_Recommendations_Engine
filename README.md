@@ -37,6 +37,11 @@ For this code to work you need to install python 3.7 and the following libraries
 <br>re
 <br>sklearn
 
+## Datasets<a name="datasets"></a>
+The datasets used for this recommendation engine are:
+<br>articles_community.csv
+<br>user-item-interactions.csv
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to IBM Watson for the collecting data and to Udacity because there are some pieces of code taken out from the DataScience Udacity Nanodegree classrooms. 
