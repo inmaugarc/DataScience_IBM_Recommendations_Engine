@@ -1,4 +1,4 @@
-# IBM_Recommendations_Engine
+# IBM_Recommendations_Engine 
 
 ![Alt text](./ibm_watson_rec.png?raw=true "IBM Watson Platform")
 For this project I will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles I think they will like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
@@ -26,13 +26,21 @@ V. Matrix Factorization
 
 Finally, you will complete a machine learning approach to building recommendations. Using the user-item interactions, you will build out a matrix decomposition. Using your decomposition, you will get an idea of how well you can predict new articles an individual might interact with (spoiler alert - it isn't great). You will finally discuss which methods you might use moving forward, and how you might test how well your recommendations are working for engaging users.
 
-# Installations
-For this code to work you need to install python 3.7 and the following libraries:
-pandas
-numpy
-matplotlib.pyplot 
-pickle
-seaborn
-nltk
-re
-sklearn
+## Installation<a name="installation"></a>
+For this code to work you need to install python 3.7 and the following libraries: 
+<br>pandas
+<br>numpy
+<br>matplotlib.pyplot 
+<br>pickle
+<br>seaborn
+<br>nltk
+<br>re
+<br>sklearn
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Must give credit to IBM Watson for the collecting data and to Udacity because there are some pieces of code taken out from the DataScience Udacity Nanodegree classrooms. 
+Otherwise, feel free to use the code here as you would like! 
+
+## References <a name="references"></a>
+ [Data Science Udacity Nanodegrees](https://www.udacity.com/school-of-data-science) <br>
