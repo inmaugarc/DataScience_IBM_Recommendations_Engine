@@ -1,6 +1,6 @@
 # IBM_Recommendations_Engine 
 
-![Alt text](./ibm_watson_rec.png?raw=true "IBM Watson Platform")
+![Alt text](./img/ibm_watson_rec.png?raw=true "IBM Watson Platform")
 For this project I will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles I think they will like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
 
 In order to determine which articles to show to each user, first we will be performing a study of the data available on the IBM Watson Studio platform.
@@ -25,6 +25,12 @@ Given the amount of content available for each article, there are a number of di
 V. Matrix Factorization
 
 Finally, you will complete a machine learning approach to building recommendations. Using the user-item interactions, you will build out a matrix decomposition. Using your decomposition, you will get an idea of how well you can predict new articles an individual might interact with (spoiler alert - it isn't great). You will finally discuss which methods you might use moving forward, and how you might test how well your recommendations are working for engaging users.
+
+## Recommendations<a name="recommendations"></a>
+These are some examples of recommendations of articles for new users and for users already have interacted with the platform
+![Alt text](./img/top_ten_recommendations.png?raw=true "Top ten recommendations")
+![Alt text](./img/complete_recommendation.png?raw=true "Complete recommendations")
+
 
 ## Installation<a name="installation"></a>
 For this code to work you need to install python 3.7 and the following libraries: 
