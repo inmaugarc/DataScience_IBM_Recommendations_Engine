@@ -29,6 +29,7 @@ Finally, you will complete a machine learning approach to building recommendatio
 ## Recommendations<a name="recommendations"></a>
 These are some examples of recommendations of articles for new users and for users already have interacted with the platform
 ![Alt text](./img/top_ten_recommendations.png?raw=true "Top ten recommendations")
+<br>
 ![Alt text](./img/complete_recommendation.png?raw=true "Complete recommendations")
 
 
