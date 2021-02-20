@@ -38,7 +38,7 @@ For this code to work you need to install python 3.7 and the following libraries
 <br>sklearn
 
 ## Datasets<a name="datasets"></a>
-The datasets used for this recommendation engine are:
+The datasets used for this recommendation engine are under the data folder:
 <br>articles_community.csv
 <br>user-item-interactions.csv
 
